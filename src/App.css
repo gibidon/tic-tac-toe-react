@@ -1,0 +1,8 @@
+.gameBoard {
+	display: grid;
+	grid-template-columns: repeat(3, 100px);
+	gap: 1rem;
+	/* position: absolute;
+	left: calc(50% - 200px);
+	top: 10%; */
+}
